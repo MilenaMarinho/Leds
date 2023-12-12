@@ -1,0 +1,11 @@
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\bin\Debug\ProjLeds.exe.config
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\bin\Debug\ProjLeds.exe
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\bin\Debug\ProjLeds.pdb
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.csproj.AssemblyReference.cache
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.csproj.SuggestedBindingRedirects.cache
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.Form1.resources
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.Properties.Resources.resources
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.csproj.GenerateResource.cache
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.csproj.CoreCompileInputs.cache
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.exe
+C:\Users\biels\source\repos\ProjLeds\ProjLeds\obj\Debug\ProjLeds.pdb
